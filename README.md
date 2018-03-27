@@ -7,4 +7,4 @@ In terminal run : $   node /bin/www
 In termial run : $    nodemon
 
 
-open the browser to the location http://localhost:3000/units/si?units=(----all the testing values goes here-----)
+open the browser to the location http://localhost:3000/units/si?units= (----all the testing values goes here-----)
